@@ -1,4 +1,7 @@
-##### UWAGA: By to działało trzeba się logować bezpośrednio na tego usera, np poprzez połaczenie SSH. Kombinacje z su i sudo niekoniecznie zadziałają.
+### UWAGA: By to zadziałało trzeba się logować bezpośrednio na tego usera, np poprzez połaczenie SSH. 
+Logowanie na użytkownika przez `su` lub `sudo` nie działa na niektórych dystrybucjach.
+
+## Zapomnij o pracy z uprawnieniami root'a !!! 
 
 **Niezbędne umiejętności:**
 
