@@ -1,3 +1,6 @@
+# Uruchamiania aplikacji Python (np: Flask) z uprawnieniami zwykłego użytkownika systemowego.
+
+
 ### UWAGA: By to zadziałało trzeba się logować bezpośrednio na tego usera, np poprzez połaczenie SSH. 
 Logowanie na użytkownika przez `su` lub `sudo` nie działa na niektórych dystrybucjach.
 
